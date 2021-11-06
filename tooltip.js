@@ -16,11 +16,11 @@
 
 const singleContent = document.getElementsByClassName("single-content__wrap")
 
-singleContent
+//singleContent
 
 const firstContent = singleContent[0] 
 
-firstContent
+//firstContent
 
 firstContent.getInnerHTML()
 
@@ -38,7 +38,7 @@ for(let i = 0; i > x.length; i++) {
 
 const prviP = x[0];
 
-prviP
+
 
 prviP.innerHTML = "ETH";
 
